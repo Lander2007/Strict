@@ -1,0 +1,2 @@
+# Strict
+Onsite Project
